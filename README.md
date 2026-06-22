@@ -1,8 +1,8 @@
 # LeetCode # 📊 SQL Mastery Hub & Database Logic
 
 <p align="center">
-  <img src="https://img.shields.io/github/directory-file-count/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME?label=Problems%20Solved&style=for-the-badge&color=7928CA"/>
-  <img src="https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME?style=for-the-badge&color=FF0080"/>
+  <img src="https://img.shields.io/github/directory-file-count/BitsbyBhargav/LeetCode?label=Problems%20Solved&style=for-the-badge&color=7928CA"/>
+  <img src="https://img.shields.io/github/last-commit/BitsbyBhargav/LeetCode?style=for-the-badge&color=FF0080"/>
   <img src="https://img.shields.io/badge/Language-T--SQL%20%7C%20MySQL-007ACC?style=for-the-badge"/>
 </p>
 
