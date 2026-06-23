@@ -1,3 +1,4 @@
-# Force GitHub to recognize SQL files and ignore all problem readmes for stats
+# Force GitHub to recognize all .sql files strictly as T-SQL dialect
+*.sql linguist-language=T-SQL
 *.sql linguist-detectable=true
 *.md linguist-documentation=true
